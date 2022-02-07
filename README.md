@@ -23,4 +23,4 @@ A centroid single force (CSF) catalog of P-wave microseism from 2004 to 2020. Th
 ## Reference
 When you use this data, please cite the following reference.
 
-* A global centroid single force catalog of P-wave microseisms, Kiwamu Nishida, Ryota Takagi, submitted, https://doi.org/10.1002/essoar.10508482.1
+* A global centroid single force catalog of P-wave microseisms, Kiwamu Nishida, Ryota Takagi, submitted to *Journal of Geophysical Research Solid Earth*, https://doi.org/10.1002/essoar.10508482.1
