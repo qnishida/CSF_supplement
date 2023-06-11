@@ -7,6 +7,7 @@ A centroid single force (CSF) catalog of P-wave microseism from 2004 to 2020. Th
 * Frequency: 0.1-0.25 Hz
 * Period: 2004 to 2020
 * Centdoids were located approximately every 6 hours:
+* The time of the catalog is in JST (= UT + 9h). We inferred CSF locations every 21904 s (about 6 hours), and the time of the catalog represents the starting time of the 6-hour window. 
 
 <dl>
   <dt> The catalog in text format</dt><dd>catalog_0.1-0.25Hz_2004-2020_6hours.dat</dd>
